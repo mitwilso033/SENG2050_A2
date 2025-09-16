@@ -1,0 +1,41 @@
+/* style.css css styling for html pages */
+
+
+
+html, body {
+	background-color: lightblue;
+	height: 100%;
+	margin: 0;
+	justify-content: center;
+	align-items: center;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+	
+	color: red;
+	text-align: center;
+	font-size: 28px;
+}
+
+.gameButtons{
+
+	text-align: center;
+}
+
+.gameButtons button{
+
+
+	margin: 100px;
+
+}
+
+.gameButtons button {
+	color: #4CAF50;
+    background-color: #ffffff;
+    border: 3px solid;
+
+}
